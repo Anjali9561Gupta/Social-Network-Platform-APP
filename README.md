@@ -23,7 +23,7 @@ Social Media Application! This application is designed to connect people, share 
 1. **Frontend** : React, Redux
 2. **Backend**  : Node.js, Express
 3. **Database** : MongoDB
-4.**Authentication**: JWT (JSON Web Tokens)
+4. **Authentication**: JWT (JSON Web Tokens)
 5. **Real-time Functionality**: Socket.io
 
 ## Installation
@@ -47,8 +47,11 @@ npm install
 Create a .env file in the root directory and add the following:
 
 env
+
 MONGO_URI=your_mongo_database_uri
+
 JWT_SECRET=your_jwt_secret
+
 
 ## Run the Application
 
