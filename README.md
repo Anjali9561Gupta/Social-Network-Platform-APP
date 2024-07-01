@@ -6,7 +6,7 @@ Social Media Application! This application is designed to connect people, share 
 
 [Go Live On](https://social-network-platform-app.vercel.app)
 
-[Youtube Video Link]()
+[Youtube Video Link](https://www.youtube.com/watch?v=17mzqWZMDho)
 
 
 ## Features
